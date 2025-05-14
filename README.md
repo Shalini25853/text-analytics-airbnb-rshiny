@@ -1,12 +1,12 @@
 # text-analytics-airbnb-rshiny
 Text mining analysis of Airbnb listing descriptions using R, with an interactive R Shiny dashboard to explore sentiment, keyword frequency, and listing insights.
-# 🏠 Airbnb Text Analytics Dashboard using R & Shiny
+#  Airbnb Text Analytics Dashboard using R & Shiny
 
 This project explores user-generated text from Airbnb listings using **text mining techniques in R**, and presents insights through an **interactive R Shiny dashboard**. The goal is to identify key themes, sentiment, and keywords in listing descriptions that influence engagement and user decision-making.
 
 ---
 
-## 🔍 Objective
+##  Objective
 
 To analyze Airbnb listing descriptions to uncover:
 - Most frequently used words and phrases
@@ -16,7 +16,7 @@ To analyze Airbnb listing descriptions to uncover:
 
 ---
 
-## ⚙️ Tools & Packages
+##  Tools & Packages
 
 - R / RStudio
 - tidytext
@@ -28,7 +28,7 @@ To analyze Airbnb listing descriptions to uncover:
 
 ---
 
-## 🧠 Key Analyses Performed
+## Key Analyses Performed
 
 - **Word Frequency Analysis**
 - **Bigram and TF-IDF Weighting**
@@ -38,7 +38,7 @@ To analyze Airbnb listing descriptions to uncover:
 
 ---
 
-## 📊 R Shiny Dashboard Features
+##  R Shiny Dashboard Features
 
 - **Overview Tab**: Summary stats + keyword cloud
 - **Word Frequency**: Top terms with filters
@@ -48,14 +48,14 @@ To analyze Airbnb listing descriptions to uncover:
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `A1_Final_code.R` – Full text mining + dashboard code
 - `Airbnb Postings Analysis Report.pdf` – Analysis write-up and screenshots
 
 ---
 
-## 💡 Business Impact
+##  Business Impact
 
 This project helps Airbnb hosts optimize their listing descriptions based on:
 - Emotionally resonant keywords
@@ -69,13 +69,13 @@ It can also be adapted for:
 
 ---
 
-## 🏷️ Tags
+##  Tags
 
 `#text-mining` `#r-shiny` `#sentiment-analysis` `#airbnb` `#dashboard` `#nlp` `#tidytext` `#tfidf`
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Shalini James Paulraj**  
 Graduate Student – Business Analytics & International Business  
