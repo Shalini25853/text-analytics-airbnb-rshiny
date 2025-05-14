@@ -1,4 +1,4 @@
-# text-analytics-airbnb-rshiny
+# Text-analytics-airbnb-rshiny
 Text mining analysis of Airbnb listing descriptions using R, with an interactive R Shiny dashboard to explore sentiment, keyword frequency, and listing insights.
 #  Airbnb Text Analytics Dashboard using R & Shiny
 
